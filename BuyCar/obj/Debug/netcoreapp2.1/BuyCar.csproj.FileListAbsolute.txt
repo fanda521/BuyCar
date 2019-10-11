@@ -1,0 +1,11 @@
+D:\Mr-Wang-jihui\Study\VS-Projects\BuyCar\BuyCar\bin\Debug\netcoreapp2.1\BuyCar.deps.json
+D:\Mr-Wang-jihui\Study\VS-Projects\BuyCar\BuyCar\bin\Debug\netcoreapp2.1\BuyCar.runtimeconfig.json
+D:\Mr-Wang-jihui\Study\VS-Projects\BuyCar\BuyCar\bin\Debug\netcoreapp2.1\BuyCar.runtimeconfig.dev.json
+D:\Mr-Wang-jihui\Study\VS-Projects\BuyCar\BuyCar\bin\Debug\netcoreapp2.1\BuyCar.dll
+D:\Mr-Wang-jihui\Study\VS-Projects\BuyCar\BuyCar\bin\Debug\netcoreapp2.1\BuyCar.pdb
+D:\Mr-Wang-jihui\Study\VS-Projects\BuyCar\BuyCar\obj\Debug\netcoreapp2.1\BuyCar.csprojAssemblyReference.cache
+D:\Mr-Wang-jihui\Study\VS-Projects\BuyCar\BuyCar\obj\Debug\netcoreapp2.1\BuyCar.csproj.CoreCompileInputs.cache
+D:\Mr-Wang-jihui\Study\VS-Projects\BuyCar\BuyCar\obj\Debug\netcoreapp2.1\BuyCar.AssemblyInfoInputs.cache
+D:\Mr-Wang-jihui\Study\VS-Projects\BuyCar\BuyCar\obj\Debug\netcoreapp2.1\BuyCar.AssemblyInfo.cs
+D:\Mr-Wang-jihui\Study\VS-Projects\BuyCar\BuyCar\obj\Debug\netcoreapp2.1\BuyCar.dll
+D:\Mr-Wang-jihui\Study\VS-Projects\BuyCar\BuyCar\obj\Debug\netcoreapp2.1\BuyCar.pdb
